@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1eIS_cW0GnF08CzEENtFucL0HvLI7AhpL/view?usp=drive_link](https://drive.google.com/file/d/1VTZagqebtxDmI7NStEr-lvtYSLTRAbHA/view?usp=sharing" target="_blank">Resume</a>
+  <a href="https://drive.google.com/file/d/1VTZagqebtxDmI7NStEr-lvtYSLTRAbHA/view" target="_blank">Resume</a>
 </p>
 
 <h3 align="center">A Passionate Full stack MERN Web Developer.</h3>
