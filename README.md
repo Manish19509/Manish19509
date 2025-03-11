@@ -91,10 +91,3 @@ Want to Know More? See
         
 </samp>
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar10248&show_icons=true&locale=en&layout=compact" alt="kumar10248" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumar10248&show_icons=true&locale=en" alt="kumar10248" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar10248&" alt="kumar10248" /></p>
