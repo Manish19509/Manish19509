@@ -26,7 +26,7 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/manishkmr/" target="blank">
+<a href="https://www.linkedin.com/in/manish-kmr/" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
 <a href="mailto:manishofficialcu@gmail.com" target="blank">
