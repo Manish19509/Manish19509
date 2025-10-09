@@ -9,33 +9,27 @@
 - ⚙️ I have a solid foundation in **SQL**, **C++**, and **Data Structures & Algorithms**  
 - 🚀 I’m interested in **backend development**, **system design**, and **cloud computing**  
 - 💬 Ask me about **JavaScript, Node.js, SQL, or C++**  
-- 📫 Reach me at **manishkumar@example.com** *(replace with your email)*  
+- 📫 Reach me at **manishofficialcu@gmail.com**
 - ⚡ Fun fact: I love turning ideas into working projects 😄  
 
 ---
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman,mysql,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman,mysql" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manishkumar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishkumar&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manishkumar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
----
+
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/manishkumar/" target="blank">
+<a href="https://www.linkedin.com/in/manishkmr/" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
-<a href="mailto:manishkumar@example.com" target="blank">
+<a href="mailto:manishofficialcu@gmail.com" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
 </a>
 </p>
