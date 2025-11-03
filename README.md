@@ -34,13 +34,6 @@
 </a>
 </p>
 
----
 
-### ⚙️ Fun Projects:
-- 🧾 [Todo App](https://github.com/yourusername/todo-app) — simple and elegant task manager  
-- 🌍 [Portfolio Website](https://github.com/yourusername/portfolio) — my personal developer portfolio  
-- 💬 [Chat App](https://github.com/yourusername/chat-app) — real-time chat using Socket.io  
-
----
 
 ⭐ **"Code. Build. Learn. Repeat."**
